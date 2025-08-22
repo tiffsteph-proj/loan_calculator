@@ -1,0 +1,16 @@
+matplotlib
+pygeohash
+pytest
+seaborn
+numpy<1.27.0
+pandas==1.5.3
+scipy==1.10.0
+ipython==8.5.0
+colorama
+python-dotenv
+numpy-financial
+requests
+beautifulsoup4
+pdf2image
+tensorflow
+pdfplumber
