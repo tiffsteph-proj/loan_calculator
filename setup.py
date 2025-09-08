@@ -10,6 +10,6 @@ requirements = [x.strip() for x in content]
 
 
 setup(name='bankloan',
-      description="Bank Loan Prediction",
+      description="Loan Calculator",
       packages=find_packages(), # NEW: find packages automatically
       install_requires=requirements)
